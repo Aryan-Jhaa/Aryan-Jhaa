@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Aryan
 
-<!--
-**Aryan-Jhaa/Aryan-Jhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about Web Development, AI/ML, and solving real-world problems through code.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**  
+C++ • Python • JavaScript • Java • SQL
+
+**Frameworks & Technologies**  
+Next.js • React • Node.js • REST APIs • OpenCV • YOLO
+
+**Cloud & DevOps**  
+AWS • IBM Cloud • Docker • Kubernetes
+
+**Databases**  
+PostgreSQL • MySQL • MongoDB
+
+**Tools & Platforms**  
+Git • VS Code • Figma • XAMPP
+
+**Operating Systems**  
+Linux (Ubuntu, Fedora, Arch) • macOS • Windows
+
+---
+
+📫 [Email](mailto:aryanjha813@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aryan813/) | [GitHub](https://github.com/Aryan-Jhaa)
