@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aryan
   
-💻 Passionate about Web Development, AI/ML, and solving real-world problems through code.
+💻 Passionate about full stack web development and solving real-world problems through code.
 
 ## 🛠️ Skills
 
