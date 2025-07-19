@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aryan
-
+  
 💻 Passionate about Web Development, AI/ML, and solving real-world problems through code.
 
 ## 🛠️ Skills
@@ -24,4 +24,5 @@ Linux (Ubuntu, Fedora, Arch) • macOS • Windows
 
 ---
 
+📄 [View My Resume](https://drive.google.com/file/d/16pSIz_d5E2AKzB8_avbEnviGXmpNHti5/view?usp=sharing)  
 📫 [Email](mailto:aryanjha813@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aryan813/) | [GitHub](https://github.com/Aryan-Jhaa)
